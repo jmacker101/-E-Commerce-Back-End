@@ -1,0 +1,21 @@
+# 13 Object-Relational Mapping (ORM): E-Commerce Back End
+
+
+## Description
+
+E-commerce has transformed how electronics are bought and sold. Consumers enjoy 24/7 access to a vast selection of electronics at competitive prices, while businesses gain access to a global marketplace. With a market size of $2.54 trillion in the US alone  e-commerce plays a vital role in the electronics industry.
+
+This project dives into building the backend of an e-commerce website. You'll use starter code to create an API with Express.js, interact with a PostgreSQL database using Sequelize, and document your work with a walkthrough video linked in the project's readme. By completing this project, you'll gain experience in building a key component of modern e-commerce platforms
+
+
+## User Story
+
+Imagine you're the manager of an online retail store. You want a cutting-edge backend system for your website. This new system will give your company the edge it needs to compete effectively with other online retailers. By using the latest technologies, you'll be able to offer a smoother and more efficient shopping experience for your customers.
+
+## Installation
+
+use the insomnia to start with GET, then PUT, then POST, then DELETE.
+
+
+## License
+MIT
